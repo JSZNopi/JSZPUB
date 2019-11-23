@@ -1,6 +1,18 @@
 {
     "RECORDS": [
         {
+            "mname": "AGE动漫",
+            "murl": "https://www.agefans.tv/"
+        }, 
+        {
+            "mname": "新世界动漫",
+            "murl": "https://m.x4jdm.tv/"
+        },
+        {
+            "mname": "小嘀咕动漫",
+            "murl": "http://www.xdg234.com/?m=vod-type-id-37.html"
+        },
+        {
             "mname": "动漫岛",
             "murl": "http://m.cosdao.com/"
         },
