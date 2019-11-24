@@ -9258,7 +9258,6 @@ fowpq.top
 ae01.alicdn.com
 k.jiurenhuanbao.com
 eexk.b-cdn.net
-ad.js
 push.zhangzhang.baidu.com
 hm.baidu.com
 o.ezxsh.com
