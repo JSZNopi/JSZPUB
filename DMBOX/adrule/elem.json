@@ -1,0 +1,16 @@
+{
+	"elems": [{
+			"url": "www.qiqidongman.com",
+			"elist": [
+				"document.querySelector("div.AABB2").hidden=true",
+			]
+		},
+		{
+			"url": "m.dmzj.com",
+			"elist": [
+				"document.querySelector('a.app_btn_home').onclick()",
+				"document.querySelector('a.close').onclick()"
+			]
+		}
+	]
+}
