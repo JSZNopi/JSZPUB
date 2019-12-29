@@ -1,135 +1,135 @@
 {
-	"elems": [{
-			"url": "www.qiqidongman.com",
-			"elist": [
-				"document.querySelector("div.AABB2").hidden=true",
-			]
-		},
-		{
-			"url": "m.dmzj.com",
-			"elist": [
-				"document.querySelector('a.app_btn_home').onclick()",
-				"document.querySelector('a.close').onclick()"
-			]
-		},
-		{
-			"url": "m.zymk.cn",
-			"elist": [
-				"document.querySelector('div.topbanner-alter').remove()",
-			]
-		},
-		{
-			"url": "m.kuman.com",
-			"elist": [
-				"document.querySelector('section.banner-guide-download').hidden=true",
-				"document.querySelector('div.guide-download').remove()"
-			]
-		},
-		  {
-			"url": "m.1kkk.com",
-			"elist": [
-				"document.querySelector('#index-ad > a:nth-child(4)').onclick()",
-				"document.querySelector('div.ad-top-info').remove()",
-				"document.querySelector('a:nth-child(13)').remove()",
-				"document.querySelector('div.detail-ad-con').remove()",
-				"document.querySelector('div.guide').remove()"
-			]
-		},
-		  {
-			"url": "m.u17.com",
-			"elist": [
-				"document.querySelector('div#ad').remove()"
-			]
-		},
-		  {
-			"url": "m.mkzhan.com",
-			"elist": [
-				"document.querySelector('div#layui-m-layer0').remove()",
-				"document.querySelector('div.float-download').remove()",
-				"document.querySelector('aside.j-app-downloader').remove()"
-			]
-		},
-		  {
-			"url": "mm.sfacg.com",
-			"elist": [
-				"document.querySelector('div#bottomNav').remove()"
-			]
-		},
-		  {
-			"url": "m.xinmanhua.net",
-			"elist": [
-				"document.querySelector('div.header-empty').remove()",
-				"document.querySelector('div#download').remove()"
-			]
-		},
-		  {
-			"url": "m.baidu.com/mip/c/mip.gugu5.com/",
-			"elist": [
-				"document.querySelector('b-scene-header.sfa-head-style-default').remove()",
-				"document.querySelector('div.gbaidua').remove()"
-			]
-		},
-		  {
-			"url": "m.kanman.com",
-			"elist": [
-				"document.querySelector('div.guide-hd-banner').remove()"
-			]
-		},
-		  {
-			"url": "m.manmanapp.com",
-			"elist": [
-				"document.querySelector('div.app-download').remove()"
-			]
-		},
-		  {
-			"url": "m.comicool.cn",
-			"elist": [
-				"document.querySelector('section#popup').remove()"
-			]
-		},
-		  {
-			"url": "m.buka.cn",
-			"elist": [
-				"document.querySelector('a.head-top-download').remove()",
-				"document.querySelector('div.mangadir-galss-btns').remove()",
-				"document.querySelector('div.description').remove()",
-				"document.querySelector('div#download_bar').remove()",
-				"document.querySelector('a.head-logo-download-btn').remove()"
-			]
-		},
-		  {
-			"url": "www.manben.com",
-			"elist": [
-				"document.querySelector('div.floatBar_1').remove()"
-			]
-		},
-		  {
-			"url": "www.19at.com",
-			"elist": [
-				"document.querySelector('div.paihang').remove()"
-			]
-		},
-		  {
-			"url": "acn.m.iqiyi.com",
-			"elist": [
-				"document.querySelector('section.sec-card-2_100').remove()",
-				"document.querySelector('div.call_or_download_app_top_2').remove()",
-				"document.querySelector('div#call_or_download_app').remove()",
-				"document.querySelector('div.call_or_download_app_in_container_2').remove()"
-			]
-		},
-		  {
-			"url": "m.dongmanmanhua.cn",
-			"elist": [
-				"document.querySelector('div.download_dm_app').remove()",
-				"document.querySelector('div.download_app_bar').remove()"
-			]
-		},
-		  {
-			"url": "m.ccdm6.com",
-			"elist": [
-				"document.querySelector('div.download').remove()"
-			]
-		}
-	]
+  "elems": [{
+    "url": "www.qiqidongman.com",
+    "elist": [
+      "document.querySelector('div.AABB2').hidden=true"
+    ]
+  },
+    {
+      "url": "m.dmzj.com",
+      "elist": [
+        "document.querySelector('a.app_btn_home').onclick()",
+        "document.querySelector('a.close').onclick()"
+      ]
+    },
+    {
+      "url": "m.zymk.cn",
+      "elist": [
+        "document.querySelector('div.topbanner-alter').remove()"
+      ]
+    },
+    {
+      "url": "m.kuman.com",
+      "elist": [
+        "document.querySelector('section.banner-guide-download').hidden=true",
+        "document.querySelector('div.guide-download').remove()"
+      ]
+    },
+    {
+      "url": "m.1kkk.com",
+      "elist": [
+        "document.querySelector('#index-ad > a:nth-child(4)').onclick()",
+        "document.querySelector('div.ad-top-info').remove()",
+        "document.querySelector('a:nth-child(13)').remove()",
+        "document.querySelector('div.detail-ad-con').remove()",
+        "document.querySelector('div.guide').remove()"
+      ]
+    },
+    {
+      "url": "m.u17.com",
+      "elist": [
+        "document.querySelector('div#ad').remove()"
+      ]
+    },
+    {
+      "url": "m.mkzhan.com",
+      "elist": [
+        "document.querySelector('div#layui-m-layer0').remove()",
+        "document.querySelector('div.float-download').remove()",
+        "document.querySelector('aside.j-app-downloader').remove()"
+      ]
+    },
+    {
+      "url": "mm.sfacg.com",
+      "elist": [
+        "document.querySelector('div#bottomNav').remove()"
+      ]
+    },
+    {
+      "url": "m.xinmanhua.net",
+      "elist": [
+        "document.querySelector('div.header-empty').remove()",
+        "document.querySelector('div#download').remove()"
+      ]
+    },
+    {
+      "url": "m.baidu.com/mip/c/mip.gugu5.com/",
+      "elist": [
+        "document.querySelector('b-scene-header.sfa-head-style-default').remove()",
+        "document.querySelector('div.gbaidua').remove()"
+      ]
+    },
+    {
+      "url": "m.kanman.com",
+      "elist": [
+        "document.querySelector('div.guide-hd-banner').remove()"
+      ]
+    },
+    {
+      "url": "m.manmanapp.com",
+      "elist": [
+        "document.querySelector('div.app-download').remove()"
+      ]
+    },
+    {
+      "url": "m.comicool.cn",
+      "elist": [
+        "document.querySelector('section#popup').remove()"
+      ]
+    },
+    {
+      "url": "m.buka.cn",
+      "elist": [
+        "document.querySelector('a.head-top-download').remove()",
+        "document.querySelector('div.mangadir-galss-btns').remove()",
+        "document.querySelector('div.description').remove()",
+        "document.querySelector('div#download_bar').remove()",
+        "document.querySelector('a.head-logo-download-btn').remove()"
+      ]
+    },
+    {
+      "url": "www.manben.com",
+      "elist": [
+        "document.querySelector('div.floatBar_1').remove()"
+      ]
+    },
+    {
+      "url": "www.19at.com",
+      "elist": [
+        "document.querySelector('div.paihang').remove()"
+      ]
+    },
+    {
+      "url": "acn.m.iqiyi.com",
+      "elist": [
+        "document.querySelector('section.sec-card-2_100').remove()",
+        "document.querySelector('div.call_or_download_app_top_2').remove()",
+        "document.querySelector('div#call_or_download_app').remove()",
+        "document.querySelector('div.call_or_download_app_in_container_2').remove()"
+      ]
+    },
+    {
+      "url": "m.dongmanmanhua.cn",
+      "elist": [
+        "document.querySelector('div.download_dm_app').remove()",
+        "document.querySelector('div.download_app_bar').remove()"
+      ]
+    },
+    {
+      "url": "m.ccdm6.com",
+      "elist": [
+        "document.querySelector('div.download').remove()"
+      ]
+    }
+  ]
 }
