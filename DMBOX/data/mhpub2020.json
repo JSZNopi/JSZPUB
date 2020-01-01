@@ -42,7 +42,7 @@
         },
         {
             "mname": "古古漫画",
-            "murl": "https://m.baidu.com/mip/c/mip.gugu5.com/"
+            "murl": "http://mip.gugu5.com/"
         },
         {
             "mname": "动漫在线",
@@ -94,7 +94,7 @@
         },
         {
             "mname": "古风漫画",
-            "murl": "https://m.baidu.com/mip/c/m.gufengmh.com/"
+            "murl": "https://m.gufengmh.com/"
         },
         {
             "mname": "叭哒",
@@ -147,10 +147,6 @@
         {
             "mname": "晴天漫画",
             "murl": "http://m.bailongjun.com"
-        },
-        {
-            "mname": "CC漫画",
-            "murl": "http://m.ccdm6.com"
         },
         {
             "mname": "新漫画",
