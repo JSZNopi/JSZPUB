@@ -61,10 +61,6 @@
             "murl": "http://m.moedao.com/"
         },
         {
-            "mname": "好看动漫",
-            "murl": "https://m.hkdm688.com/"
-        },
-        {
             "mname": "AGE动漫",
             "murl": "https://www.agefans.tv/"
         }, 
@@ -109,10 +105,6 @@
             "murl": "https://www.66dongman.com"
         },
         {
-            "mname": "4399动漫",
-            "murl": "http://m.4399dmw.com/"
-        },
-        {
             "mname": "看撒动漫",
             "murl": "http://m.kan300.com/"
         },
@@ -135,14 +127,6 @@
         {
             "mname": "Ammmi动漫",
             "murl": "https://www.ammmi.com/"
-        },
-        {
-            "mname": "KTKKT动漫",
-            "murl": "http://m.ktkkt.com"
-        },
-        {
-            "mname": "喔喔动漫",
-            "murl": "http://m.wowodm.com"
         }
     ]
 }
